@@ -142,16 +142,14 @@ const markdownOptions: DropdownOption[] = [
 ];
 
 const imageLightOptions: DropdownOption[] = [
-    { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-black.svg' },
-    { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-black-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-color-logo.svg' },
+    { text: 'Robert', value: 'https://avatars.logoscdn.com/3884/7153884_large_3b634f17e8e24d168f940de8151186db.png' },
+    { text: 'Faithlife', value: 'https://files.logoscdn.com/v1/files/42413620/content.svg?signature=b7DBhfTYzQexC1w8kox_lI21hBg' },
 ];
 
 const imageDarkOptions: DropdownOption[] = [
 
-    { text: 'Vercel', value: 'https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg' },
-    { text: 'Next.js', value: 'https://assets.vercel.com/image/upload/front/assets/design/nextjs-white-logo.svg' },
-    { text: 'Hyper', value: 'https://assets.vercel.com/image/upload/front/assets/design/hyper-bw-logo.svg' },
+    { text: 'Robert', value: 'https://avatars.logoscdn.com/3884/7153884_large_3b634f17e8e24d168f940de8151186db.png' },
+    { text: 'Faithlife', value: 'https://files.logoscdn.com/v1/files/42413620/content.svg?signature=b7DBhfTYzQexC1w8kox_lI21hBg' },
 ];
 
 const widthOptions = [
